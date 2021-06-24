@@ -1,0 +1,3 @@
+CREATE SCHEMA [Customer2x]
+AUTHORIZATION [dbo]
+GO
